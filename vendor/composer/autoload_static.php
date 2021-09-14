@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
+class ComposerStaticInite2fd01f7430ee53cb2e489183523d597
 {
     public static $files = array (
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
@@ -388,6 +388,7 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Asm89\\Stack\\Cors' => __DIR__ . '/..' . '/asm89/stack-cors/src/Asm89/Stack/Cors.php',
         'Asm89\\Stack\\CorsService' => __DIR__ . '/..' . '/asm89/stack-cors/src/Asm89/Stack/CorsService.php',
         'AssertionError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/AssertionError.php',
+        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Composer\\Installers\\AglInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/AglInstaller.php',
         'Composer\\Installers\\AimeosInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/AimeosInstaller.php',
         'Composer\\Installers\\AnnotateCmsInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php',
@@ -440,6 +441,7 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Composer\\Installers\\MauticInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/MauticInstaller.php',
         'Composer\\Installers\\MayaInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/MayaInstaller.php',
         'Composer\\Installers\\MediaWikiInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/MediaWikiInstaller.php',
+        'Composer\\Installers\\MiaoxingInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/MiaoxingInstaller.php',
         'Composer\\Installers\\MicroweberInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/MicroweberInstaller.php',
         'Composer\\Installers\\ModxInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/ModxInstaller.php',
         'Composer\\Installers\\MoodleInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/MoodleInstaller.php',
@@ -475,12 +477,14 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Composer\\Installers\\TYPO3CmsInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/TYPO3CmsInstaller.php',
         'Composer\\Installers\\TYPO3FlowInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/TYPO3FlowInstaller.php',
         'Composer\\Installers\\TaoInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/TaoInstaller.php',
+        'Composer\\Installers\\TastyIgniterInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/TastyIgniterInstaller.php',
         'Composer\\Installers\\TheliaInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/TheliaInstaller.php',
         'Composer\\Installers\\TuskInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/TuskInstaller.php',
         'Composer\\Installers\\UserFrostingInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/UserFrostingInstaller.php',
         'Composer\\Installers\\VanillaInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/VanillaInstaller.php',
         'Composer\\Installers\\VgmcpInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/VgmcpInstaller.php',
         'Composer\\Installers\\WHMCSInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/WHMCSInstaller.php',
+        'Composer\\Installers\\WinterInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/WinterInstaller.php',
         'Composer\\Installers\\WolfCMSInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/WolfCMSInstaller.php',
         'Composer\\Installers\\WordPressInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/WordPressInstaller.php',
         'Composer\\Installers\\YawikInstaller' => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers/YawikInstaller.php',
@@ -2399,7 +2403,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'EasyRdf_Parser_Arc' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Parser/Arc.php',
         'EasyRdf_Parser_Exception' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Parser/Exception.php',
         'EasyRdf_Parser_Json' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Parser/Json.php',
-        'EasyRdf_Parser_JsonLd' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Parser/JsonLdImplementation.php',
         'EasyRdf_Parser_Ntriples' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Parser/Ntriples.php',
         'EasyRdf_Parser_Rapper' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Parser/Rapper.php',
         'EasyRdf_Parser_RdfPhp' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Parser/RdfPhp.php',
@@ -2412,7 +2415,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'EasyRdf_Serialiser_Arc' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Serialiser/Arc.php',
         'EasyRdf_Serialiser_GraphViz' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Serialiser/GraphViz.php',
         'EasyRdf_Serialiser_Json' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Serialiser/Json.php',
-        'EasyRdf_Serialiser_JsonLd' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Serialiser/JsonLd_real.php',
         'EasyRdf_Serialiser_Ntriples' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Serialiser/Ntriples.php',
         'EasyRdf_Serialiser_Rapper' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Serialiser/Rapper.php',
         'EasyRdf_Serialiser_RdfPhp' => __DIR__ . '/..' . '/easyrdf/easyrdf/lib/EasyRdf/Serialiser/RdfPhp.php',
@@ -2783,7 +2785,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Masterminds\\HTML5\\Serializer\\Traverser' => __DIR__ . '/..' . '/masterminds/html5/src/HTML5/Serializer/Traverser.php',
         'OS_Guess' => __DIR__ . '/..' . '/pear/pear-core-minimal/src/OS/Guess.php',
         'PEAR' => __DIR__ . '/..' . '/pear/pear-core-minimal/src/PEAR.php',
-        'PEAR_Error' => __DIR__ . '/..' . '/pear/pear-core-minimal/src/PEAR.php',
         'PEAR_ErrorStack' => __DIR__ . '/..' . '/pear/pear-core-minimal/src/PEAR/ErrorStack.php',
         'PEAR_Exception' => __DIR__ . '/..' . '/pear/pear_exception/PEAR/Exception.php',
         'ParseError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/ParseError.php',
@@ -2980,8 +2981,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Symfony\\Component\\DependencyInjection\\Compiler\\FactoryReturnTypePass' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/FactoryReturnTypePass.php',
         'Symfony\\Component\\DependencyInjection\\Compiler\\InlineServiceDefinitionsPass' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/InlineServiceDefinitionsPass.php',
         'Symfony\\Component\\DependencyInjection\\Compiler\\LoggingFormatter' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/LoggingFormatter.php',
-        'Symfony\\Component\\DependencyInjection\\Compiler\\MergeExtensionConfigurationContainerBuilder' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/MergeExtensionConfigurationPass.php',
-        'Symfony\\Component\\DependencyInjection\\Compiler\\MergeExtensionConfigurationParameterBag' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/MergeExtensionConfigurationPass.php',
         'Symfony\\Component\\DependencyInjection\\Compiler\\MergeExtensionConfigurationPass' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/MergeExtensionConfigurationPass.php',
         'Symfony\\Component\\DependencyInjection\\Compiler\\PassConfig' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/PassConfig.php',
         'Symfony\\Component\\DependencyInjection\\Compiler\\PriorityTaggedServiceTrait' => __DIR__ . '/..' . '/symfony/dependency-injection/Compiler/PriorityTaggedServiceTrait.php',
@@ -3091,7 +3090,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Symfony\\Component\\DependencyInjection\\Loader\\GlobFileLoader' => __DIR__ . '/..' . '/symfony/dependency-injection/Loader/GlobFileLoader.php',
         'Symfony\\Component\\DependencyInjection\\Loader\\IniFileLoader' => __DIR__ . '/..' . '/symfony/dependency-injection/Loader/IniFileLoader.php',
         'Symfony\\Component\\DependencyInjection\\Loader\\PhpFileLoader' => __DIR__ . '/..' . '/symfony/dependency-injection/Loader/PhpFileLoader.php',
-        'Symfony\\Component\\DependencyInjection\\Loader\\ProtectedPhpFileLoader' => __DIR__ . '/..' . '/symfony/dependency-injection/Loader/PhpFileLoader.php',
         'Symfony\\Component\\DependencyInjection\\Loader\\XmlFileLoader' => __DIR__ . '/..' . '/symfony/dependency-injection/Loader/XmlFileLoader.php',
         'Symfony\\Component\\DependencyInjection\\Loader\\YamlFileLoader' => __DIR__ . '/..' . '/symfony/dependency-injection/Loader/YamlFileLoader.php',
         'Symfony\\Component\\DependencyInjection\\Parameter' => __DIR__ . '/..' . '/symfony/dependency-injection/Parameter.php',
@@ -3110,7 +3108,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Symfony\\Component\\EventDispatcher\\Debug\\TraceableEventDispatcher' => __DIR__ . '/..' . '/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php',
         'Symfony\\Component\\EventDispatcher\\Debug\\TraceableEventDispatcherInterface' => __DIR__ . '/..' . '/symfony/event-dispatcher/Debug/TraceableEventDispatcherInterface.php',
         'Symfony\\Component\\EventDispatcher\\Debug\\WrappedListener' => __DIR__ . '/..' . '/symfony/event-dispatcher/Debug/WrappedListener.php',
-        'Symfony\\Component\\EventDispatcher\\DependencyInjection\\ExtractingEventDispatcher' => __DIR__ . '/..' . '/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php',
         'Symfony\\Component\\EventDispatcher\\DependencyInjection\\RegisterListenersPass' => __DIR__ . '/..' . '/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php',
         'Symfony\\Component\\EventDispatcher\\Event' => __DIR__ . '/..' . '/symfony/event-dispatcher/Event.php',
         'Symfony\\Component\\EventDispatcher\\EventDispatcher' => __DIR__ . '/..' . '/symfony/event-dispatcher/EventDispatcher.php',
@@ -3369,7 +3366,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Symfony\\Component\\Routing\\Loader\\GlobFileLoader' => __DIR__ . '/..' . '/symfony/routing/Loader/GlobFileLoader.php',
         'Symfony\\Component\\Routing\\Loader\\ObjectRouteLoader' => __DIR__ . '/..' . '/symfony/routing/Loader/ObjectRouteLoader.php',
         'Symfony\\Component\\Routing\\Loader\\PhpFileLoader' => __DIR__ . '/..' . '/symfony/routing/Loader/PhpFileLoader.php',
-        'Symfony\\Component\\Routing\\Loader\\ProtectedPhpFileLoader' => __DIR__ . '/..' . '/symfony/routing/Loader/PhpFileLoader.php',
         'Symfony\\Component\\Routing\\Loader\\XmlFileLoader' => __DIR__ . '/..' . '/symfony/routing/Loader/XmlFileLoader.php',
         'Symfony\\Component\\Routing\\Loader\\YamlFileLoader' => __DIR__ . '/..' . '/symfony/routing/Loader/YamlFileLoader.php',
         'Symfony\\Component\\Routing\\Matcher\\Dumper\\DumperCollection' => __DIR__ . '/..' . '/symfony/routing/Matcher/Dumper/DumperCollection.php',
@@ -3689,7 +3685,6 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
         'Symfony\\Component\\Validator\\Mapping\\TraversalStrategy' => __DIR__ . '/..' . '/symfony/validator/Mapping/TraversalStrategy.php',
         'Symfony\\Component\\Validator\\ObjectInitializerInterface' => __DIR__ . '/..' . '/symfony/validator/ObjectInitializerInterface.php',
         'Symfony\\Component\\Validator\\Test\\ConstraintValidatorTestCase' => __DIR__ . '/..' . '/symfony/validator/Test/ConstraintValidatorTestCase.php',
-        'Symfony\\Component\\Validator\\Test\\ConstraintViolationAssertion' => __DIR__ . '/..' . '/symfony/validator/Test/ConstraintValidatorTestCase.php',
         'Symfony\\Component\\Validator\\Test\\ForwardCompatTestTrait' => __DIR__ . '/..' . '/symfony/validator/Test/ForwardCompatTestTrait.php',
         'Symfony\\Component\\Validator\\Util\\PropertyPath' => __DIR__ . '/..' . '/symfony/validator/Util/PropertyPath.php',
         'Symfony\\Component\\Validator\\Validation' => __DIR__ . '/..' . '/symfony/validator/Validation.php',
@@ -4134,11 +4129,11 @@ class ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada::$prefixesPsr0;
-            $loader->fallbackDirsPsr0 = ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada::$fallbackDirsPsr0;
-            $loader->classMap = ComposerStaticInite6a1df69f4138d58a5677080ae2a2ada::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInite2fd01f7430ee53cb2e489183523d597::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInite2fd01f7430ee53cb2e489183523d597::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInite2fd01f7430ee53cb2e489183523d597::$prefixesPsr0;
+            $loader->fallbackDirsPsr0 = ComposerStaticInite2fd01f7430ee53cb2e489183523d597::$fallbackDirsPsr0;
+            $loader->classMap = ComposerStaticInite2fd01f7430ee53cb2e489183523d597::$classMap;
 
         }, null, ClassLoader::class);
     }
