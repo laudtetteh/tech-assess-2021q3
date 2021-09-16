@@ -69,7 +69,7 @@ class AccessibilityAjaxForm extends FormBase {
                 // Count is good if less than or equal to 2, bad if more
                 $color = count($count) <= 2 ? 'green' : 'red';
                 // Color code list items by count
-                $html .= "<li>$violation: $count</li>";
+                $html .= "<li style='color:" . $color . "'>$violation: $count</li>";
             }
 
             $html .= '</ul>';
