@@ -25,3 +25,5 @@ if (file_exists($local_settings)) {
 }
 
 $settings['hash_salt'] = 'pepperpepperpepperpepperpepperpepperpepperpepperpepper';
+// Please set your local site url here
+$settings['local_site_url'] = 'http://localhost:8888/tableau_takehome';

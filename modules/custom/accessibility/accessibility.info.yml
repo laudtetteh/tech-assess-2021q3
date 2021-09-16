@@ -1,5 +1,5 @@
 name: Accessibility Analysis Custom Module
-description: Creates a custom module for analysing & displaying page accessibility
+description: Creates a custom module for fetching & displaying page accessibility data
 package: Custom
 type: module
 version: 1.0
