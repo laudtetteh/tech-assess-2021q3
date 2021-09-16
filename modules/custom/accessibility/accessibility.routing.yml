@@ -1,0 +1,7 @@
+#API endpoints
+accessibility.get:
+  path: '/api/accessibility'
+  defaults: { _controller: '\Drupal\accessibility\Controller\AccessibilityController::getAccessibilityAnalysis' }
+  methods:  [GET]
+  requirements:
+    _access: 'TRUE'
